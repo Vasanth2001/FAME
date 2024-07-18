@@ -1,0 +1,7 @@
+{
+    "input_file_path": "examples/example.txt",
+    "output_encrypted_file_path": "examples/encrypted_file.enc",
+    "output_decrypted_file_path": "examples/decrypted_file.txt",
+    "attributes": ["ONE", "TWO", "THREE"],
+    "policy": "((ONE and THREE) and (TWO OR FOUR))"
+}
